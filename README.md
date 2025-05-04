@@ -31,4 +31,4 @@ d) Tao Pai Pai
 ## 🛠 Technologies utilisées
 
 - **Frontend** : HTML5, CSS3, JavaScript, React.
-- **Hébergement** : [Netlify/Vercel/GitHub Pages/etc.]
+- **Hébergement** : Vercel
