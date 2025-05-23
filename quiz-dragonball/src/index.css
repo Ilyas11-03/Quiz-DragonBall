@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  height: fit-content;
-  /* background-image: url('image/dbz.jpg'); */
+  height: 100rem;
+  background-image: url('image/dbz.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100em;
