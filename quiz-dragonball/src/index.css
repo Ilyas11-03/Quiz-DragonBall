@@ -1,11 +1,17 @@
-body {
-  margin: 0;
-  height: 100rem;
-  background-image: url('image/dbz.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 100em;
-  padding: 0;
-  font-family: 'poppins';
 
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  background-image: url('./image/dbz.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed; /* empêche le background de défiler */
+  min-height: 100vh;
+  overflow-x: hidden;
+  background-color: #000; /* fallback si image introuvable */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
