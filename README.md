@@ -12,11 +12,10 @@
 Bienvenue dans le **Dragon Ball Ultimate Quiz**, une expérience interactive conçue pour tous les fans de **DB**, **DBZ**, **DB Super** et des univers parallèles.  
 Challenges, chrono, sons épiques… Prêt à augmenter votre niveau de puissance ? ⚡
 
-🎯 **30 questions** soigneusement sélectionnées  
-🔥 **Mode chronométré** (optionnel)  
-🏆 **Score final + classement**  
+🎯 **30 questions** soigneusement sélectionnées   
+🏆 **Score final**  
 📱 **Design responsive**  
-🔊 **Effets sonores iconiques** (transformation Super Saiyan, Kamehameha…)
+
 
 ---
 
