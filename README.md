@@ -39,9 +39,10 @@ b) Piccolo
 c) Freezer
 d) Tao Pai Pai
 
-🛠️ Technologies utilisées
-Technologie	Description
-React	Construction de l’interface interactive
-JavaScript	Gestion de la logique du quiz
-HTML5 / CSS3	Structure et design responsive
-Vercel	Hébergement rapide et optimisé
+| Technologie      | Description                             |
+| ---------------- | --------------------------------------- |
+| **React**        | Construction de l’interface interactive |
+| **JavaScript**   | Gestion de la logique du quiz           |
+| **HTML5 / CSS3** | Structure et design responsive          |
+| **Vercel**       | Hébergement rapide et optimisé          |
+
