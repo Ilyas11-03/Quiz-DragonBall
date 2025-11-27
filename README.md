@@ -20,7 +20,15 @@ Challenges, chrono, sons épiques… Prêt à augmenter votre niveau de puissanc
 ---
 
 ## 🖼️ Aperçu du Quiz
-<img width="887" height="887" alt="image" src="https://github.com/user-attachments/assets/f2e8a748-8109-4066-b9d5-f1725d57543a" />
+<img width="1910" height="751" alt="image" src="https://github.com/user-attachments/assets/e61e0ae8-4a08-4845-9718-492dfb18e191" />
+
+---
+
+<img width="1441" height="901" alt="image" src="https://github.com/user-attachments/assets/523f6d51-ac93-4d0e-9095-c6f6fb433255" />
+
+
+---
+
 
 🎮 Comment jouer ?
 
