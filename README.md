@@ -1,34 +1,47 @@
-🐉 Dragon Ball Quiz
-Un quiz interactif pour tester vos connaissances sur l'univers de Dragon Ball (DBZ, DB Super, etc.) avec 30 questions variées.
+# 🐉 Dragon Ball Ultimate Quiz  
+**Testez vos connaissances et relevez le défi comme un vrai Saiyan !**
 
-🔗 Lien vers le quiz : 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Vercel-blue?style=for-the-badge)](https://quiz-dragon-ball.vercel.app/)  
+[![Made With Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](#)  
+[![Tech](https://img.shields.io/badge/Stack-React%20%7C%20JS%20%7C%20CSS-orange?style=for-the-badge)](#)
 
-📌 Fonctionnalités
-✔ 30 questions sur les sagas, personnages et techniques emblématiques.
-✔ Mode chronométré (optionnel) pour plus de challenge.
-✔ Score final avec classement.
-✔ Design responsive (mobile, tablette, desktop).
-✔ Effets sonores (Kamehameha, transformations, etc.).
+---
+
+## 🔥 Présentation
+
+Bienvenue dans le **Dragon Ball Ultimate Quiz**, une expérience interactive conçue pour tous les fans de **DB**, **DBZ**, **DB Super** et des univers parallèles.  
+Challenges, chrono, sons épiques… Prêt à augmenter votre niveau de puissance ? ⚡
+
+🎯 **30 questions** soigneusement sélectionnées   
+🏆 **Score final**  
+📱 **Design responsive**  
+
+
+---
+
+## 🖼️ Aperçu du Quiz
+<img width="887" height="887" alt="image" src="https://github.com/user-attachments/assets/f2e8a748-8109-4066-b9d5-f1725d57543a" />
 
 🎮 Comment jouer ?
-Lancez le quiz.
 
-Répondez aux 30 questions (QCM).
+1️⃣ Lancez le quiz via le lien :
+👉 https://quiz-dragon-ball.vercel.app/
 
-Découvrez votre score et comparez-vous aux autres fans !
+2️⃣ Répondez aux 30 questions (format QCM)
+3️⃣ Découvrez votre score final et comparez votre niveau à celui d’un Saiyan ! 💥
 
-Exemple de question :
+Exemple de question
+
 ❓ Qui est le premier adversaire de Goku dans l’anime Dragon Ball ?
-
 a) Vegeta
-
 b) Piccolo
-
 c) Freezer
-
 d) Tao Pai Pai
 
-## 🛠 Technologies utilisées
+| Technologie      | Description                             |
+| ---------------- | --------------------------------------- |
+| **React**        | Construction de l’interface interactive |
+| **JavaScript**   | Gestion de la logique du quiz           |
+| **HTML5 / CSS3** | Structure et design responsive          |
+| **Vercel**       | Hébergement rapide et optimisé          |
 
-- **Frontend** : HTML5, CSS3, JavaScript, React.
-- **Hébergement** : Vercel
