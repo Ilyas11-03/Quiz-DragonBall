@@ -71,3 +71,34 @@
     background: #FF4A4A;
     border-color: #FF4A4A;
 }
+
+/*Timer*/
+.timer {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #ff5722;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.timer.low {
+  color: #f44336;
+}
+
+.final-result {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.final-message {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin: 15px 0;
+  color: #ff9800;
+  animation: fadeIn 1s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
